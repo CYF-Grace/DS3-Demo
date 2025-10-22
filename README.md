@@ -1,2 +1,3 @@
 # DS3-Demo
-Added my_name.txt to the repo
+Yifei Chen added my_name.txt
+Added my blurb to README
